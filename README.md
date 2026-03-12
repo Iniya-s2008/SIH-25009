@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Reference Number:
-## Name:
+# Date:12.03.2026
+## Reference Number:25018947
+## Name:Iniya S
 
 ## Problem Title
 SIH 25009: Gamified Environmental Education Platform for Schools and Colleges
